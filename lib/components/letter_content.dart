@@ -8,7 +8,7 @@ class LetterContent extends StatelessWidget {
     return Column(
       children: [
         const SizedBox(height: 16),
-        _title('To My Beloved Wyfe'),
+        _title('To My Beloved Wife'),
         const SizedBox(height: 12),
         _text(
             'Thank you for everything you do and have done for Sarah and me.'),
